@@ -1,4 +1,4 @@
-<a href="">简体中文</a>
+<a href="https://github.com/joyou-io/rom/blob/main/README-cn.md">简体中文</a><br>
 Provide custom ROMs for select models from brands such as Pixel, Xiaomi, and OnePlus. Based on LineageOS, these ROMs incorporate additional features, including: 5G support (specifically addressing issues where Pixel phones cannot enable 5G NR in certain regions), call recording, and automatic audio playback for voice calls on apps like WeChat, WhatsApp, and Messenger.
 Feature development and device adaptation are proceeding in an orderly manner; the current progress is outlined below:<br><br>
 📳ROM（Android 16）<br>
