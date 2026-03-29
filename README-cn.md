@@ -1,16 +1,17 @@
-<h1 style="text-align: center;width: fit-content;margin: 0 auto;">Pixel ROM 5G</h1>
+<h1>Pixel ROM 5G</h1>
 专注Pixel系列的ROM，基于LineageOS，核心功能包括：5G（针对Pixel在部分国家5G NR功能受限），电话通话录音。<br><br>
 
-<b>❇️主要功能</b><br>
-<div style="text-indent: 2em;">
-1️⃣5G NR<br>
-适配机型：Pixel6<br>
-其它机型：TODO<br>
-2️⃣电话通话录音<br>
-适配机型：Pixel6<br>
-其它机型：TODO<br>
-3️⃣谷歌三件套，谷歌输入法<br><br></div>
-<b>❇️刷机方法</b><br>
+<h2>❇️主要功能</h2>
+<ul><li>
+5G NR<br>
+✅适配机型：Pixel6<br>
+✅其它机型：TODO<br></li>
+<li>电话通话录音<br>
+✅适配机型：Pixel6<br>
+✅其它机型：TODO<br></li>
+<li>✅谷歌三件套，谷歌输入法<br>
+    </li></ul>
+<h2>❇️刷机方法</h2>
 <ul>
 <li>手机当前Android版本必须是16，没有请先升级或降级到谷歌官方Android版本16</li>
 <li>如果第一次安装我们ROM（LineageOS）,需要先刷入3个img，</li>
@@ -24,6 +25,6 @@ fastboot flash vendor_boot d:\YourDir\vendor_boot.img</li>
 Apply from ADB<br>
 adb sideload d:\YourDir\lineage-xx.zip</li>
   </ul>
-<b>❇️使用交流</b><br>
+<h2>❇️使用交流</h2>
 Wechat:<br>
 <img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/wecha2.png"><br>WhatsApp<br><img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/whatsapp2.png">
