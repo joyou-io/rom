@@ -10,6 +10,7 @@ ROMs for the Pixel and based on LineageOS, key features include: 5G support and 
 ✅Compatible Models：Pixel6<br>
 ✅Other Models：TODO<br></li>
 <li>✅Google GMS, Google Input Method<br>
+✅Online Upgrade<br>
     </li></ul>
 <h2>❇️Flashing Method</h2>
 <ul>
