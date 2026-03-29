@@ -5,6 +5,7 @@
 <ul><li>
 5G NR<br>
 ✅适配机型：Pixel6<br>
+✅中国大陆移动/联通/电信/广电 4网5G/越南5G<br>
 ✅其它机型：TODO<br></li>
 <li>电话通话录音<br>
 ✅适配机型：Pixel6<br>
