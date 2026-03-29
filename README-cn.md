@@ -1,8 +1,8 @@
 <h1 style="text-align: center;width: fit-content;margin: 0 auto;">Pixel ROM 5G</h1>
 专注Pixel系列的ROM，基于LineageOS，核心功能包括：5G（针对Pixel在部分国家5G NR功能受限），电话通话录音。<br><br>
 
-<b>❇️主要功能</b><br><br>
-<div style="margin-left:20px">
+<b>❇️主要功能</b><br>
+<div style="margin-left:20px;">
 1️⃣5G NR<br>
 适配机型：Pixel6<br>
 其它机型：TODO<br>
